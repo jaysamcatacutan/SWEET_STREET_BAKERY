@@ -59,9 +59,6 @@ The decision to focus on a **bakery** niche was inspired by the growing trend of
 - A subtle hover/tap animation on category filters and product cards.
 - Well-structured layout using Flutter's `GridView`, `Container`, `ListView`, and custom `Card` widgets.
 
-### 📸 Screenshots
-![Sweet Street Bakery Home](./screenshots/home.png)
-
 ---
 
 ## 🧠 Challenges Faced & Solutions
