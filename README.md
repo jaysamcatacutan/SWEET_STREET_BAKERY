@@ -1,6 +1,6 @@
 # Sweet Street Bakery - E-commerce UI Project
 
-**Student Name & I**:  
+**Student Name & ID**:  
 *Catacutan, Jay Sam S. - 2023-2110085*
 
 ## 🧁 Project Description
